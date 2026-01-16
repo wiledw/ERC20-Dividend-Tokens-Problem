@@ -1,4 +1,5 @@
 # Tech interview smart contracts coding problem
+# ERC20-Dividend-Tokens-Problem
 
 This is a Solidity coding problem for tech interviews. It is designed to take **no more than a few hours**.
 
@@ -29,15 +30,6 @@ You will thus need to **efficiently** keep track of individual token holder addr
 
 For a clearer understanding of how the code is supposed to work please refer to the tests in the `test` folder.
 
-Your Solution must pass the test: `npm run test` - run the tests (Hardhat)
 
-![Test Result](./test-result.png)
 
-### 3: Submission
 
-Record a short [Loom video](https://www.loom.com) showing how it works, including the expected and actual behavior if you're testing.
-
-### 4. Deadline
-
-Please complete and submit the result within 1 ~ 2 hours unless otherwise discussed.# ERC20-Dividend-Tokens-Problem
-# ERC20-Dividend-Tokens-Problem
