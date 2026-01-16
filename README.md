@@ -1,7 +1,13 @@
 # Tech interview smart contracts coding problem
 # ERC20-Dividend-Tokens-Problem
 
-This is a Solidity coding problem for tech interviews. It is designed to take **no more than a few hours**.
+
+I have attached two Loom videos that explain the problem, approach, insights, and provide a quick demo visualization. 
+
+https://www.loom.com/share/d11acf553dc74a288bc24dbbad7e5555
+
+https://www.loom.com/share/5ffc08b597564446808a313b348ab6d1
+
 
 ## Getting setup
 
